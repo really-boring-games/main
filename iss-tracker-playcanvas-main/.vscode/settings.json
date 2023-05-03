@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.includeStrings": false,
+    "editor.unicodeHighlight.includeComments": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.renderControlCharacters": false,
+    "editor.renderFinalNewline": "off",
+    "editor.renderLineHighlight": "none",
+    "diffEditor.renderIndicators": false,
+    "diffEditor.renderMarginRevertIcon": false,
+    "editor.guides.indentation": false,
+    "editor.matchBrackets": "never",
+    "editor.wordBasedSuggestionsMode": "currentDocument"
+}
