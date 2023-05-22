@@ -67,5 +67,7 @@
   "editor.colorDecorators": false,
   "editor.detectIndentation": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.showUnused": false
+  "editor.showUnused": false,
+  "explorer.fileNesting.enabled": false,
+  "editor.peekWidgetDefaultFocus": "editor"
 }
