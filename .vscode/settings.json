@@ -69,5 +69,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.showUnused": false,
   "explorer.fileNesting.enabled": false,
-  "editor.peekWidgetDefaultFocus": "editor"
+  "editor.peekWidgetDefaultFocus": "editor",
+  "editor.suggest.showIcons": false
 }

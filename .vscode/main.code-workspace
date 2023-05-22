@@ -71,7 +71,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.folding": false,
     "editor.guides.bracketPairsHorizontal": false,
-    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.inlayHints.enabled": "off",
     "editor.largeFileOptimizations": false,
     "editor.lightbulb.enabled": false,
     "editor.multiCursorMergeOverlapping": true,
@@ -110,7 +110,12 @@
     "editor.emptySelectionClipboard": false,
     "explorer.copyRelativePathSeparator": "/",
     "explorer.fileNesting.enabled": true,
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "typescript.surveys.enabled": false,
+    "explorer.expandSingleFolderWorkspaces": false,
+    "outline.problems.colors": false,
+    "outline.problems.enabled": false,
+    "outline.problems.badges": false
   },
   "extensions": {
     "recommendations": [
